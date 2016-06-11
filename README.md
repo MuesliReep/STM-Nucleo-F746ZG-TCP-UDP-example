@@ -1,4 +1,4 @@
-# TCP/UDP example for the Nuceo-F746G board
+# TCP/UDP example for the Nucleo-F746G board
 
 Uses FreeRTOS & LwIP
 
